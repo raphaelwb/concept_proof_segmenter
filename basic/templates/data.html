@@ -1,0 +1,10 @@
+{% for o in anchor %}
+<a href="#pos_{{forloop.counter}}">{{o.title}}</a><BR>
+{% endfor %}
+
+{% for o in data %}
+    <h3>{{o.title}}</h3>
+    <p  id="pos_{{forloop.counter}}" class="lead">
+        {{o.text}}
+    </p>
+{% endfor %}

@@ -1,0 +1,32 @@
+Sample Returned
+https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
+
+Chrome extension is running!
+content.js:14 Receiver content
+content.js:39  Wikipédia, a encicl
+content.js:41 <mark id="markpos_1">[Bem.]</mark> Wikipédia, a encicl
+content.js:39 Autorizado em 1890 e
+content.js:41 <mark id="markpos_2">[ O USS Massachusetts: Um Navio Pioneiro de Defesa Costeira
+O USS Massachusetts foi autorizado em 1890 e comissionado seis anos depois.]</mark>Autorizado em 1890 e
+content.js:39 Ele foi desativado e
+content.js:41 <mark id="markpos_3">[ 1906: Desativação para modernização | Atualidades em destaque.]</mark>Ele foi desativado e
+content.js:39 Eventos a decorrer: 
+content.js:41 <mark id="markpos_4">[ Eventos Atuais e Históricos - 5 de Agosto.]</mark>Eventos a decorrer: 
+content.js:39 Nasceram neste dia… 
+content.js:41 <mark id="markpos_5">[ Nasceram neste dia: Deodoro da Fonseca (1827-1892), Freddie Tomlins (1919-1943) e Neil Armstrong (1930-2012).]</mark>Nasceram neste dia… 
+content.js:39 Índice geral • Suges
+content.js:41 <mark id="markpos_6">[ A Casa de Vinhos da Cidade de Münster: Um Beco Entre a Prefeitura e o Stadtweinhaus
+  - Introdução.]</mark>Índice geral • Suges
+content.js:39 (resolução original:
+content.js:41 <mark id="markpos_7">[Wikipédia.]</mark>(resolução original:
+content.js:39 Este texto é disponi
+content.js:41 <mark id="markpos_8">[
+
+/*.]</mark>Este texto é disponi
+content.js:48 <a href="#markpos_1">Bem.</a><BR><a href="#markpos_2"> O USS Massachusetts: Um Navio Pioneiro de Defesa Costeira
+O USS Massachusetts foi autorizado em 1890 e comissionado seis anos depois.</a><BR><a href="#markpos_3"> 1906: Desativação para modernização | Atualidades em destaque.</a><BR><a href="#markpos_4"> Eventos Atuais e Históricos - 5 de Agosto.</a><BR><a href="#markpos_5"> Nasceram neste dia: Deodoro da Fonseca (1827-1892), Freddie Tomlins (1919-1943) e Neil Armstrong (1930-2012).</a><BR><a href="#markpos_6"> A Casa de Vinhos da Cidade de Münster: Um Beco Entre a Prefeitura e o Stadtweinhaus
+  - Introdução.</a><BR><a href="#markpos_7">Wikipédia.</a><BR><a href="#markpos_8">
+
+
+[{'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': ' Wikipédia, a encicl'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Autorizado em 1890 e'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Ele foi desativado e'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Eventos a decorrer: '}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Nasceram neste dia… '}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Índice geral • Suges'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': '(resolução original:'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Este texto é disponi'}]
+[{'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': ' Wikipédia, a encicl'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Autorizado em 1890 e'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Ele foi desativado e'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Eventos a decorrer: '}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Nasceram neste dia… '}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Índice geral • Suges'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': '(resolução original:'}, {'title': 'Entenda os Efeitos de um El Niño Clássico no Brasil\n\nDepois do La Niña, será possível um El Niño?', 'text': 'Este texto é disponi'}]
