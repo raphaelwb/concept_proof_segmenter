@@ -62,11 +62,9 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'mysite.urls'
 
-CORS_ALLOWED_ORIGIN_REGEXES = [
-    r"https://www.*",
-    r"https://pt.*",
-    r"http://127.0.0.1/*",
-]
+CORS_ORIGIN_ALLOW_ALL = True
+
+ALLOWED_HOSTS=['*']
 
 TEMPLATES = [
     {
@@ -139,6 +137,5 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_HOSTS = ["7617-179-108-234-205.ngrok-free.app","127.0.0.1","pgstsimzetta.ufla.br"]
-CSRF_TRUSTED_ORIGINS = ["https://*","http://127.0.0.1:8000/*","https://7617-179-108-234-205.ngrok-free.app/*","https://pgstsimzetta.ufla.br"]
+CSRF_TRUSTED_ORIGINS = ["https://*"]
 

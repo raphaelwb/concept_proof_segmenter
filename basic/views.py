@@ -107,6 +107,7 @@ def loadData(url):
 
     #print("-----------------------------------------------------------")
     #print(jsonData)
+    print("FINISHED")
     return jsonData,htmlData,anchor
 
 # Create your views here.

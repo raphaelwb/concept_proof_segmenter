@@ -2,41 +2,25 @@ console.log("Receiver content");
 
 api = "http://127.0.0.1:8000";
 
-function playSound() {
-    let url = chrome.runtime.getURL('audio.html');
-
-    // set this string dynamically in your code, this is just an example
-    // this will play success.wav at half the volume and close the popup after a second
-    url += '?volume=0.5&src=success.wav&length=1000';
-
-    chrome.windows.create({
-        type: 'popup',
-        focused: true,
-        top: 1,
-        left: 1,
-        height: 1,
-        width: 1,
-        url,
-    })
-
-}
+console.log("Started");
 
 (async () => {
     const response = await fetch(api+"/api", {
-    mode: 'no-cors',
     method: 'POST',
     body: JSON.stringify({
         url: window.location.toString(),
-        keyuser: "*****"
+        keyuser: "Teste03241"
     }),
     headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
     },
     })
 
+    console.log("Send");
+
     const data = await response.json()
 
-    //console.log(data);
+    console.log(data);
 
     var links = ""
 

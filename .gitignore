@@ -1,0 +1,4 @@
+venv/*
+env.conf
+*__pycache__*
+basic/__pycache__/*
